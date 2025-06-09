@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @LiamsPython
-- 💡 I’m really interested in Data analytics, engineering and science. Making meaningful deductions from large and complicated data sets. Using all tools          available to allow the data to tell it's story, create actionable insights and explore unknown truths.   
+- 💡 My interests include Data analytics, engineering and science. Making meaningful deductions from large and complicated data sets. Using all tools              available to allow the data to tell it's story, create actionable insights and explore unknown truths.   
 - 🌱 I’m currently learning about Classical Probability, Empirical Probability, Subjective Probability, Axiomatic Probability
-- 💞️ I’m looking to collaborate on any Analytical data work particularly within people management and fiannacial services. 
-- 📫 How to reach me github.com/LiamsPython
-- 😄 Pronouns: He/Him
+- 💼 I’m looking to collaborate on any analytical data projects particularly within people management and fiannacial services. 
+- 📫 How to reach me sheppy144@gmail.com
 - ⚡ Fun fact: The cake was always a lie 🎂
 
 <!---
